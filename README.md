@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/size-75KiB-brightgreen"> <img src="https://img.shields.io/badge/license-MIT-green"> <a href="https://twitter.com/qsypoq"><img src="https://img.shields.io/badge/twitter-@qsypoq-blue"></img></a> <br/>
 </h2>
 
-<p align="center"><b>Introduction: <a href="https://magnier.io/developing-vmware-workstation-pro-ansible-module">How I ended up developing a VMware Workstation/Fusion Pro Ansible module</a></b></p>
+<p align="center"><b>Introduction: <a href="https://magnier.io/developing-vmware-workstation-pro-ansible-module/">How I ended up developing a VMware Workstation/Fusion Pro Ansible module</a></b></p>
 
 </div>
 <hr/>
